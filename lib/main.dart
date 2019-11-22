@@ -96,10 +96,4 @@ List<StateData> states = [
   StateData(stateName: "West Virginia",altName: "The Mountain State"),
   StateData(stateName: "Wisconsin",altName: "The Badger state"),
   StateData(stateName: "Wyoming",altName: "The Equality or Cowboy State"),
-
-
-
-
-
-
 ];
